@@ -1,0 +1,10 @@
+Merge the two .py files, into one.
+Add functionality for searching more than one letter.
+Add description on the right hand side, of each command. 
+Add functionality for choosing between listing commands or viewing examples for a command. 
+Add a note for commands that aren't installed by default, on Linux distros. 
+Add a man-page?
+Color coding?
+Special option for listing hacking-related commands?
+Add categories for commands, that are searchable?
+Add an option for providing a flag (-lc) instead of prompting for input?
