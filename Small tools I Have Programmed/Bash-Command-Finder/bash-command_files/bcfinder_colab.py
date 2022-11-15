@@ -107,7 +107,6 @@ def search_commands():
 
   num = 0
 
-
 def main():
   initalizer()
   search_commands()
