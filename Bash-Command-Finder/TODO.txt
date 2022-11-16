@@ -1,4 +1,4 @@
-Merge the two .py files, into one.
+Edit the a-z_bash.txt file to only contain descriptions
 Add functionality for searching more than one letter.
 Add description on the right hand side, of each command. 
 Add functionality for choosing between listing commands or viewing examples for a command. 
